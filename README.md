@@ -249,13 +249,13 @@ Infrastructure     ← גישה ל-DB
 
 
 <!-- גררי תמונה לכאן, או השתמשי בתחביר: -->
-<!-- ![קליטת לקוח](screenshots/add-customer.png) -->
+<!-- ![קליטת לקוח](screenshots/newCustomer.png) -->
 
 ### חיפוש לקוח
-<!-- ![חיפוש לקוח](screenshots/search-customer.png) -->
+<!-- ![חיפוש לקוח](screenshots/allCustomer.png) -->
 
 ### יצירת הזמנה
-<!-- ![יצירת הזמנה](screenshots/create-order.png) -->
+<!-- ![יצירת הזמנה](screenshots/newInvitation.png) -->
 
-### לוח תזכורות
-<!-- ![תזכורות](screenshots/reminders.png) -->
+### לוח הזמנות
+<!-- ![תזכורות](screenshots/invitation.png) -->
