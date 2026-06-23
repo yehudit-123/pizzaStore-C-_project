@@ -1,0 +1,15 @@
+C:\projects\PizzaStore\InfrastructureAPI\bin\Debug\net8.0\InfrastructureAPI.deps.json
+C:\projects\PizzaStore\InfrastructureAPI\bin\Debug\net8.0\InfrastructureAPI.dll
+C:\projects\PizzaStore\InfrastructureAPI\bin\Debug\net8.0\InfrastructureAPI.pdb
+C:\projects\PizzaStore\InfrastructureAPI\bin\Debug\net8.0\Entities.dll
+C:\projects\PizzaStore\InfrastructureAPI\bin\Debug\net8.0\Entities.pdb
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.csproj.AssemblyReference.cache
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.AssemblyInfoInputs.cache
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.AssemblyInfo.cs
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.csproj.CoreCompileInputs.cache
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\Infrastr.1CB3F22E.Up2Date
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.dll
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\refint\InfrastructureAPI.dll
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.pdb
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\ref\InfrastructureAPI.dll

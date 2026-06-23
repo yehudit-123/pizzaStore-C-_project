@@ -1,0 +1,15 @@
+C:\projects\PizzaStore\ServiceInterface\bin\Debug\net8.0\ServiceInterface.deps.json
+C:\projects\PizzaStore\ServiceInterface\bin\Debug\net8.0\ServiceInterface.dll
+C:\projects\PizzaStore\ServiceInterface\bin\Debug\net8.0\ServiceInterface.pdb
+C:\projects\PizzaStore\ServiceInterface\bin\Debug\net8.0\Entities.dll
+C:\projects\PizzaStore\ServiceInterface\bin\Debug\net8.0\Entities.pdb
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.csproj.AssemblyReference.cache
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.AssemblyInfoInputs.cache
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.AssemblyInfo.cs
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.csproj.CoreCompileInputs.cache
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceI.917C53B1.Up2Date
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.dll
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\refint\ServiceInterface.dll
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.pdb
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ref\ServiceInterface.dll
