@@ -245,17 +245,13 @@ Infrastructure     ← גישה ל-DB
 ## 📸 צילומי מסך
 
 ### קליטת לקוח
-
-
-
-<!-- גררי תמונה לכאן, או השתמשי בתחביר: -->
-<!-- ![קליטת לקוח](screenshots/newCustomer.png) -->
+![קליטת לקוח](screenshots/newCustomer.png)
 
 ### חיפוש לקוח
-<!-- ![חיפוש לקוח](screenshots/allCustomer.png) -->
+![חיפוש לקוח](screenshots/allCustomer.png)
 
 ### יצירת הזמנה
-<!-- ![יצירת הזמנה](screenshots/newInvitation.png) -->
+![יצירת הזמנה](screenshots/newInvitation.png)
 
 ### לוח הזמנות
-<!-- ![תזכורות](screenshots/invitation.png) -->
+![תזכורות](screenshots/invitation.png) 
