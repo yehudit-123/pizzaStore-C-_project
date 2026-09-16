@@ -15,6 +15,14 @@ public class CustomersController : ControllerBase
         _service = service;
     }
 
+    // הפונקציה החדשה שהוספנו להבאת כל הלקוחות
+    [HttpGet]
+    public ActionResult<List<Customer>> GetAll()
+    {
+        // ודאי שלפונקציה בממשק ה-Service שלך אכן קוראים GetAllCustomers
+        return Ok(_service.GetAllCustomers());
+    }
+
     [HttpPost]
     public ActionResult<int> Add([FromBody] Customer customer)
     {

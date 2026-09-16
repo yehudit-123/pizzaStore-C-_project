@@ -18,6 +18,7 @@ public class PizzasController : ControllerBase
     [HttpGet]
     public ActionResult<List<Pizza>> GetAll()
     {
+        
         return Ok(_service.GetAllPizzas());
     }
 

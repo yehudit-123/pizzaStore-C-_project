@@ -40,6 +40,10 @@ public class PizzaServices : IPizzaService
         try { return _infra.GetCustomerById(id); }
         catch { return null; }
     }
+    public List<Customer> GetAllCustomers()
+    {
+        return _infra.GetAllCustomers(); // בהנחה שלפונקציה ב-Infrastructure קוראים כך
+    }
 
     public List<Customer> SearchCustomers(string searchTerm)
     {
@@ -71,5 +75,9 @@ public class PizzaServices : IPizzaService
     {
         try { return _infra.GetPendingReminders(days); }
         catch { return new List<Order>(); }
+    }
+    public int DeleteOrder(int id)
+    {
+        return _infra.DeleteOrder(id); // או ישירות דרך ה-DbContext בהתאם לארכיטקטורה אצלך
     }
 }

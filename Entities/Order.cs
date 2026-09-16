@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.Json.Serialization; // הוספנו את השורה הזו כדי שהמערכת תכיר את הפקודה להתעלמות
 
 namespace Entities
 {
@@ -17,7 +18,10 @@ namespace Entities
         public DateTime? ReminderDate { get; set; }
         public bool ReminderSent { get; set; }
 
+        [JsonIgnore] // הוראה להתעלם מהלקוח המלא בתקשורת
         public virtual Customer? Customer { get; set; }
+
+        [JsonIgnore] // הוראה להתעלם מהפיצה המלאה בתקשורת
         public virtual Pizza? Pizza { get; set; }
     }
 }

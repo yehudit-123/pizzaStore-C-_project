@@ -10,7 +10,6 @@
         "dependencies": {
           "Entities": "1.0.0",
           "Infrastructure": "1.0.0",
-          "InfrastructureAPI": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "8.0.28",
           "Microsoft.EntityFrameworkCore.Tools": "10.0.9",
           "Service": "1.0.0",

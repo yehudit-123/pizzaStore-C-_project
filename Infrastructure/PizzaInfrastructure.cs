@@ -45,7 +45,10 @@ public class PizzaInfrastructure : IPizzaInfrastructure
         try { return _ctx.Customers.Find(id); }
         catch { return null; }
     }
-
+    public List<Customer> GetAllCustomers()
+    {
+        return _ctx.Customers.ToList();
+    }
     public List<Customer> SearchCustomers(string searchTerm)
     {
         try
@@ -108,5 +111,25 @@ public class PizzaInfrastructure : IPizzaInfrastructure
                 .ToList();
         }
         catch { return new List<Order>(); }
+    }
+    public int DeleteOrder(int id)
+    {
+        // 1. חיפוש ההזמנה במסד הנתונים לפי ה-id שהתקבל
+        var order = _ctx.Orders.Find(id);
+
+        // אם ההזמנה לא קיימת במסד, מחזירים -1 (שגיאה)
+        if (order == null)
+        {
+            return -1;
+        }
+
+        // 2. הסרת ההזמנה מטבלת ההזמנות בעזרת Remove
+        _ctx.Orders.Remove(order);
+
+        // 3. שמירת השינויים במסד הנתונים (כדי שהמחיקה תתבצע בפועל ב-SQL)
+        _ctx.SaveChanges();
+
+        // החזרת ערך חיובי המציין הצלחה
+        return 1;
     }
 }

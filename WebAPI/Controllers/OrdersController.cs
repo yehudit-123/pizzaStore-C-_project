@@ -29,8 +29,8 @@ public class OrdersController : ControllerBase
         return Ok(result);
     }
 
-    [HttpPut]
-    public ActionResult<int> Update([FromBody] Order order)
+    [HttpPut("{id}")]
+    public ActionResult<int> Update(int id, [FromBody] Order order)
     {
         int result = _service.UpdateOrder(order);
         if (result == -1) return StatusCode(500, "שגיאה בעדכון הזמנה");
@@ -41,5 +41,20 @@ public class OrdersController : ControllerBase
     public ActionResult<List<Order>> GetReminders(int days)
     {
         return Ok(_service.GetPendingReminders(days));
+    }
+    [HttpDelete("{id}")]
+    public ActionResult Delete(int id)
+    {
+        // קריאה לפונקציה שיצרנו ב-Service
+        int result = _service.DeleteOrder(id);
+
+        // אם הפונקציה החזירה -1, סימן שההזמנה לא נמצאה או נכשלה
+        if (result == -1)
+        {
+            return NotFound("ההזמנה לא נמצאה או ששגיאה אירעה במחיקה");
+        }
+
+        // מחזירים תשובת הצלחה
+        return Ok(true);
     }
 }

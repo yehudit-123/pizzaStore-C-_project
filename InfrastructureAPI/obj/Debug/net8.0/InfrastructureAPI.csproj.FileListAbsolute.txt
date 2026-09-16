@@ -8,6 +8,7 @@ C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.Gene
 C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.AssemblyInfoInputs.cache
 C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.AssemblyInfo.cs
 C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.csproj.CoreCompileInputs.cache
+C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.sourcelink.json
 C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\Infrastr.1CB3F22E.Up2Date
 C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\InfrastructureAPI.dll
 C:\projects\PizzaStore\InfrastructureAPI\obj\Debug\net8.0\refint\InfrastructureAPI.dll

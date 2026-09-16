@@ -127,10 +127,10 @@ C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\InfrastructureAPI.dll
 C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\Service.dll
 C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\ServiceInterface.dll
 C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\Entities.pdb
-C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\InfrastructureAPI.pdb
 C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\Infrastructure.pdb
 C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\ServiceInterface.pdb
 C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\Service.pdb
+C:\projects\PizzaStore\WebAPI\bin\Debug\net8.0\InfrastructureAPI.pdb
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.csproj.AssemblyReference.cache
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
@@ -139,6 +139,7 @@ C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.AssemblyInfo.cs
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.csproj.CoreCompileInputs.cache
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\WebAPI.sourcelink.json
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\projects\PizzaStore\WebAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json

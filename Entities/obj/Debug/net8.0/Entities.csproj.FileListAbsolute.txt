@@ -5,6 +5,7 @@ C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditor
 C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
 C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
 C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.sourcelink.json
 C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.dll
 C:\projects\PizzaStore\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\projects\PizzaStore\Entities\obj\Debug\net8.0\Entities.pdb

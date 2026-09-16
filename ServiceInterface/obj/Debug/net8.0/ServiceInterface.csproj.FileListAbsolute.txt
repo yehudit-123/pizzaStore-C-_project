@@ -8,6 +8,7 @@ C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.Genera
 C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.AssemblyInfoInputs.cache
 C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.AssemblyInfo.cs
 C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.csproj.CoreCompileInputs.cache
+C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.sourcelink.json
 C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceI.917C53B1.Up2Date
 C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\ServiceInterface.dll
 C:\projects\PizzaStore\ServiceInterface\obj\Debug\net8.0\refint\ServiceInterface.dll

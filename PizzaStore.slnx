@@ -2,7 +2,7 @@
   <Project Path="Entities/Entities.csproj" />
   <Project Path="Infrastructure/Infrastructure.csproj" />
   <Project Path="InfrastructureAPI/InfrastructureAPI.csproj" />
-  <Project Path="PizzasDesktopApp/PizzasDesktopApp.csproj" Id="620a8ee6-357a-499d-9434-33ff2efa8000" />
+  <Project Path="PizzaClient/PizzaClient.csproj" Id="63821f1a-f469-4d40-8e5c-f2b55a240d0c" />
   <Project Path="Service/Service.csproj" />
   <Project Path="ServiceInterface/ServiceInterface.csproj" />
   <Project Path="WebAPI/WebAPI.csproj" Id="d3ef1540-cc39-4fc1-85bc-284b1f331cad" />
